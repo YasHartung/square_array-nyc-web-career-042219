@@ -3,5 +3,4 @@ def square_array(array)
   array.each do |num|
   array[i] =  num**2
   i++
-  end
 end
